@@ -32,7 +32,70 @@ mode        : selfcontained # {standalone, draft}
 
 ## Exemplos
 
+![Norma1](figures/NormaAtual1.jpg)
 
+---
+
+![Norma2](figures/NormaAtual2.jpg)
+
+---
+
+- Citações: basicamente, formato da ABNT
+  - Cidade da revista
+  - Identificação de contexto (intervenção humana!): número de
+  autores, parênteses ou não, etc
+  - ...
+
+---
+
+## Times New Roman
+
+- A Times New Roman é uma família tipográfica serifada criada em 1931
+- Jornal inglês The Times of London
+- Uma versão da Times New Roman foi produzida pela Monotype para a
+Microsoft
+- Distribuída em todas as cópias do Microsoft Windows desde a versão
+3.1.
+- A Microsoft procura substituir a Times New Roman com uma nova fonte
+sem serifa, a Calibri
+
+---
+
+## Qual é o problema?
+
+- Assume-se (e, num certo sentido, recomenda-se) o uso do MS Word (MS
+Office)
+- Mundo contemporâneo:
+  - Windows
+  - Mac
+  - Linux
+  - ...
+
+---
+
+## Preciosismo? Excentricidade?
+
+- Computação em nuvem (Google Docs, ...)
+- LibreOffice
+- LaTeX
+- (html5, ggvis,...)
+
+---
+
+## Exemplos
+
+### Theoretical and Applied Genetics
+
+![TAG](figures/TAG1.jpg)
+
+---
+
+## Fórmulas
+
+![Genetics](figures/Genetics1.jpg)
+
+
+- Biometrics, Genetics, PlOS ONE, $\ldots$
 
 --- .quote .nobackground .segue .dark
 
