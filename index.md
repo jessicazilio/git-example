@@ -94,11 +94,31 @@ Office)
 
 ![Genetics](figures/Genetics1.jpg)
 
+---
 
+## LaTeX (e outros formatos)
+
+- Muitas revistas e livros usam o formato
 - Biometrics, Genetics, PlOS ONE, $\ldots$
+- Há na ESALQ um "Guia de Sobrevivência para Usuários do LaTeX"
 
 --- .quote .nobackground .segue .dark
 
+## Proposta
+
+<q> Apresentar um "template" real e efetivo (não um documento modelo!)
+que permita a redação de Dissertações e Teses usando diferentes
+programas e sistemas operacionais, de acordo com as necessidades do
+usuário </q>
+
+- Não elimina ou privilegia algum programa
+- Porém, obviamente, leva em consideração que a maioria dos usuários
+usa de fato o MS Word
+- Permite tanto formatação automática quanto manual
+  - Usuários com conhecimentos limitados podem optar por não usá-lo!
+- Pode ser atualizado constantemente, levando em conta sugestões dos
+usuários (em última análise, quem procuramos atender)
+- Elaboração de Tutoriais
 
 
 --- .class #id 
