@@ -11,6 +11,28 @@ widgets     : [mathjax, bootstrap, quiz]   # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 --- 
 
+## Introdução
+
+- Objetivo: eficiência e produtividade
+- Usar os modernos recursos computacionais
+- Flexibilidade de procedimentos
+  - Importação de formatos
+  - Foco no conteúdo, não nos formatos e regras
+
+---
+
+## Formato Atual
+
+- "Windows-cêntrico"
+- Normas que devem ser implementadas no computador
+  - Nem sempre isso é possível, exigindo muitas intervenções
+  - Rígido, não adaptado aos diferentes cenários
+
+---
+
+## Exemplos
+
+
 
 --- .quote .nobackground .segue .dark
 
